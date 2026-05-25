@@ -1,5 +1,6 @@
-🎮 Verse Clash
-🌌 Overview
+# 🎮 Verse Clash
+
+## 🌌 Overview
 
 Verse Clash is an interactive character elimination game where players choose between iconic characters from different fictional universes and gradually discover who stands at the top.
 
@@ -9,205 +10,231 @@ Every decision affects the tournament.
 
 One by one, characters get eliminated until only a single champion remains.
 
-✨ Main Idea
+---
+
+# ✨ Main Idea
 
 Players start by selecting their favorite universe or content category.
 
 Supported categories include:
 
-🎬 Movies
-📺 Series
-🎮 Games
-📖 Manga / Manhwa
-🦸 Comics
-📚 Novels & Literature
-⚔️ Fantasy Universes
-🌍 Custom Verses
+* 🎬 Movies
+* 📺 Series
+* 🎮 Games
+* 📖 Manga / Manhwa
+* 🦸 Comics
+* 📚 Novels & Literature
+* ⚔️ Fantasy Universes
+* 🌍 Custom Verses
 
 The game then presents multiple character matchups.
 
 Example:
 
-Gojo vs Madara
-Batman vs Iron Man
-Goku vs Saitama
+* Gojo vs Madara
+* Batman vs Iron Man
+* Goku vs Saitama
 
 Players choose their preferred character in every round.
 
 Based on those choices:
 
-Characters gain points 📈
-Rankings change dynamically 🔥
-Weak contenders get eliminated ❌
-Strong contenders survive ⚡
+* Characters gain points 📈
+* Rankings change dynamically 🔥
+* Weak contenders get eliminated ❌
+* Strong contenders survive ⚡
 
 At the end, only one character becomes the ultimate winner 👑
 
-🕹️ Features
-🎯 Interactive Character Battles
+---
+
+# 🕹️ Features
+
+## 🎯 Interactive Character Battles
 
 Compare characters through fun and fast decision-based matchups.
 
-🏆 Tournament Elimination System
+## 🏆 Tournament Elimination System
 
 Characters compete until one final contender remains.
 
-🌐 Cross-Verse Matchups
+## 🌐 Cross-Verse Matchups
 
 Battle characters from completely different universes.
 
-📊 Dynamic Rankings
+## 📊 Dynamic Rankings
 
 Rankings constantly evolve based on player choices.
 
-❤️ Preference-Based Results
+## ❤️ Preference-Based Results
 
 Final outcomes reflect the player’s own opinions and taste.
 
-🎨 Beautiful Character Cards
+## 🎨 Beautiful Character Cards
 
 Stylish UI with images, animations, stats, and effects.
 
-⚡ Fast & Smooth Gameplay
+## ⚡ Fast & Smooth Gameplay
 
 Quick rounds designed to keep players engaged.
 
-🌙 Dark Mode Support
+## 🌙 Dark Mode Support
 
 Clean modern interface with theme support.
 
-📱 Responsive Design
+## 📱 Responsive Design
 
 Playable on mobile, tablet, and desktop devices.
 
-🌟 Gameplay Modes
-👑 Classic Tournament
+---
+
+# 🌟 Gameplay Modes
+
+## 👑 Classic Tournament
 
 Standard elimination until one winner remains.
 
-⚔️ Cross-Verse Arena
+## ⚔️ Cross-Verse Arena
 
 Characters from different universes fight for dominance.
 
-⏱️ Speed Mode
+## ⏱️ Speed Mode
 
 Timed choices for intense gameplay.
 
-🧠 Blind Choice Mode
+## 🧠 Blind Choice Mode
 
 Choose based only on abilities and descriptions.
 
-🎲 Random Chaos Mode
+## 🎲 Random Chaos Mode
 
 Completely unpredictable matchups.
 
-👥 Multiplayer Mode
+## 👥 Multiplayer Mode
 
 Compete with friends in shared tournaments.
 
-🎭 Character Profiles
+---
+
+# 🎭 Character Profiles
 
 Each character can include:
 
-Name
-Universe
-Powers
-Abilities
-Strengths
-Weaknesses
-Intelligence
-Magic
-Weapons
-Influence
-Popularity
-Transformations
-Signature Skills
-Story Impact
-Special Traits
-🏅 Ranking System
+* Name
+* Universe
+* Powers
+* Abilities
+* Strengths
+* Weaknesses
+* Intelligence
+* Magic
+* Weapons
+* Influence
+* Popularity
+* Transformations
+* Signature Skills
+* Story Impact
+* Special Traits
+
+---
+
+# 🏅 Ranking System
 
 The platform can generate:
 
-Most Powerful Characters ⚡
-Most Popular Characters 🔥
-Most Influential Characters 👑
-Community Favorites ❤️
-Highest Win Rate 📈
-Ultimate Cross-Verse Champions 🌌
-🌍 Community Features
-👥 User Profiles
+* Most Powerful Characters ⚡
+* Most Popular Characters 🔥
+* Most Influential Characters 👑
+* Community Favorites ❤️
+* Highest Win Rate 📈
+* Ultimate Cross-Verse Champions 🌌
+
+---
+
+# 🌍 Community Features
+
+## 👥 User Profiles
 
 Track favorite characters, rankings, and match history.
 
-📢 Global Leaderboards
+## 📢 Global Leaderboards
 
 See the most dominant characters worldwide.
 
-🏆 Community Events
+## 🏆 Community Events
 
 Special tournaments and seasonal battles.
 
-🎯 Daily Challenges
+## 🎯 Daily Challenges
 
 Unique missions and limited-time objectives.
 
-🎨 UI & Experience
-Smooth animations ✨
-Interactive battle screens ⚔️
-Modern card-based design 🃏
-Dynamic effects and transitions 🔥
-Minimal and responsive layout 📱
-🚀 Future Enhancements
-🤖 AI-Powered Match Suggestions
+---
+
+# 🎨 UI & Experience
+
+* Smooth animations ✨
+* Interactive battle screens ⚔️
+* Modern card-based design 🃏
+* Dynamic effects and transitions 🔥
+* Minimal and responsive layout 📱
+
+---
+
+# 🚀 Future Enhancements
+
+## 🤖 AI-Powered Match Suggestions
 
 Smart recommendations based on player preferences.
 
-🎙️ Voice Command Support
+## 🎙️ Voice Command Support
 
 Choose characters using voice interaction.
 
-🌌 3D Battle Visuals
+## 🌌 3D Battle Visuals
 
 Animated fight scenes and cinematic effects.
 
-🧠 AI Debate System
+## 🧠 AI Debate System
 
 AI explains why a character would win.
 
-🏟️ Live Community Events
+## 🏟️ Live Community Events
 
 Massive online tournaments and rankings.
 
-🃏 Character Collection System
+## 🃏 Character Collection System
 
 Unlock special cards, skins, and rare versions.
 
-📱 Mobile Application
+## 📱 Mobile Application
 
 Dedicated Android and iOS apps.
 
-🛠️ Custom Universe Creator
+## 🛠️ Custom Universe Creator
 
 Allow users to create their own verses and characters.
 
-📈 Advanced Statistics
+## 📈 Advanced Statistics
 
 Detailed analytics and battle history tracking.
 
-🎥 Streamer Mode
+## 🎥 Streamer Mode
 
 Optimized layout for Twitch and YouTube creators.
 
-💡 Project Vision
+---
+
+# 💡 Project Vision
 
 Verse Clash aims to become the ultimate fictional character comparison platform where fans can:
 
-Explore universes 🌌
-Compare legendary characters ⚔️
-Create tournaments 🏆
-Share opinions ❤️
-Discover community rankings 📊
-Experience endless fictional battles 🔥
+* Explore universes 🌌
+* Compare legendary characters ⚔️
+* Create tournaments 🏆
+* Share opinions ❤️
+* Discover community rankings 📊
+* Experience endless fictional battles 🔥
 
 Every tournament tells a different story.
 
